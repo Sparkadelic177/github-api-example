@@ -42,7 +42,7 @@ function getGiphys(){
         const apiKey = 'ec1b2f39ba6e4a8c8bddbd394c2aad48';
 
 
-        let url = `http://api.giphy.com/v1/gifs/search?q=${searchTerm}&api_key=${apiKey}&limit=10`;
+        let url = `your api key here`;
     
         const returnedPromise = fetch(url);
 
